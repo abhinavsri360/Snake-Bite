@@ -241,10 +241,7 @@ void display()
     }
 	printf("\n\t\t\t\t");
 	printf("Presented by:\n");
-	printf("\t\t\t\t* Abhinav Srivastava   (9918103122)\n");
-	printf("\t\t\t\t* Shreya Agarwal       (9918103146)\n");
-	printf("\t\t\t\t* Samriddhi Srivastava (9918103142)\n");
-	printf("\t\t\t\t* Aditi Dixit          (9918103155)\n");
+	printf("\t\t\t\t* Abhinav Srivastava\n");
 	for(i=0;i<200;i++)
     {
         printf("-");
